@@ -253,6 +253,12 @@
     <EmbeddedResource Include="frm_principal.resx">
       <DependentUpon>frm_principal.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frm_rpt_especifico.resx">
+      <DependentUpon>frm_rpt_especifico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_rpt_general.resx">
+      <DependentUpon>frm_rpt_general.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
