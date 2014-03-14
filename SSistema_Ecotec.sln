@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Regla_Negocios", "Clases\Regla_Negocios.vbproj", "{49AA4E7C-8830-4D91-845A-87F2290E3FE6}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Interfaz", "Interfaz\Interfaz.vbproj", "{52310C63-64D2-432C-B8BB-DB62288A028E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49AA4E7C-8830-4D91-845A-87F2290E3FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49AA4E7C-8830-4D91-845A-87F2290E3FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49AA4E7C-8830-4D91-845A-87F2290E3FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49AA4E7C-8830-4D91-845A-87F2290E3FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52310C63-64D2-432C-B8BB-DB62288A028E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52310C63-64D2-432C-B8BB-DB62288A028E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52310C63-64D2-432C-B8BB-DB62288A028E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52310C63-64D2-432C-B8BB-DB62288A028E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
